@@ -21,7 +21,7 @@
   }
  ],
  "notificationArray": {
-   "totalUnreadNotifications": 3,
+   "totalUnreadNotifications": 2,
    "notifications": [
      { "notificationId": 1,
        "notificationType": "newPost",
