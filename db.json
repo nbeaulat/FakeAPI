@@ -41,5 +41,5 @@
   },
  "token": ["MY_PRECIOUS"],
  "register": ["Token"],
- "lostPassword": ["User unknown"]
+ "lostPassword": ["OK"]
  }
