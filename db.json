@@ -39,5 +39,6 @@
      }
     ]
   },
- "token": ["MY_PRECIOUS"]
+ "token": ["MY_PRECIOUS"],
+ "register": ["Register failed"]
  }
