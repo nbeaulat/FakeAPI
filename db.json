@@ -40,5 +40,5 @@
     ]
   },
  "token": ["MY_PRECIOUS"],
- "register": ["User already exists"]
+ "register": ["Token"]
  }
