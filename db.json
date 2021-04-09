@@ -40,5 +40,5 @@
     ]
   },
  "token": ["MY_PRECIOUS"],
- "register": ["Register failed"]
+ "register": ["User already exists"]
  }
