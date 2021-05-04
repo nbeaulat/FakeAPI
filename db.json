@@ -1,26 +1,4 @@
-{"feedMembers" : [
-  { "userId": "28",
-    "userName": "Bol",
-    "shipName": "Cosmos",
-    "userPicURL": "https://upload.wikimedia.org/wikipedia/commons/e/ea/GANDALF.jpg"
-  },
-{ "userId": "24",
-    "userName": "Jeremy",
-    "shipName": "Alita",
-    "userPicURL": "https://upload.wikimedia.org/wikipedia/commons/e/ea/GANDALF.jpg"
-  },
-   { "userId": "22",
-    "userName": "Nadia",
-    "shipName": "Ondine",
-    "userPicURL": "https://upload.wikimedia.org/wikipedia/commons/e/ea/GANDALF.jpg"
-  },
-   { "userId": "20",
-    "userName": "Alain",
-    "shipName": "La Méduse",
-    "userPicURL": "https://upload.wikimedia.org/wikipedia/commons/e/ea/GANDALF.jpg"
-  }
- ],
- "notificationArray": {
+{ "notificationArray": {
    "totalUnreadNotifications": 2,
    "notifications": [
      { "notificationId": 1,
