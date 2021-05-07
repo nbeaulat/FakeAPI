@@ -1,23 +1,4 @@
-{ "notificationArray": {
-   "totalUnreadNotifications": 2,
-   "notifications": [
-     { "notificationId": 1,
-       "notificationType": "newPost",
-       "markerId": 45,
-       "postId": 12,
-       "unread": true,
-       "notificationDate": "2020/04/14 08:50:12"
-     },
-     { "notificationId": 2,
-       "notificationType": "newComment",
-       "markerId": 32,
-       "postId": 1,
-       "unread": false,
-       "notificationDate": "2020/05/01 18:53:56"
-     }
-    ]
-  },
- "token": ["MY_PRECIOUS"],
+{ "token": ["MY_PRECIOUS"],
  "register": ["Token"],
  "lostPassword": ["OK"]
  }
